@@ -1,0 +1,102 @@
+customer_id,name,age,region
+1,Customer_1,56,Kerala
+2,Customer_2,69,Tamil Nadu
+3,Customer_3,46,Tamil Nadu
+4,Customer_4,32,Tamil Nadu
+5,Customer_5,60,Tamil Nadu
+6,Customer_6,25,Delhi
+7,Customer_7,38,Karnataka
+8,Customer_8,56,Karnataka
+9,Customer_9,36,Tamil Nadu
+10,Customer_10,40,Karnataka
+11,Customer_11,28,Karnataka
+12,Customer_12,28,Tamil Nadu
+13,Customer_13,41,Karnataka
+14,Customer_14,53,Kerala
+15,Customer_15,57,Maharashtra
+16,Customer_16,41,Maharashtra
+17,Customer_17,20,Tamil Nadu
+18,Customer_18,39,Delhi
+19,Customer_19,19,Tamil Nadu
+20,Customer_20,41,Delhi
+21,Customer_21,61,Maharashtra
+22,Customer_22,47,Tamil Nadu
+23,Customer_23,55,Kerala
+24,Customer_24,19,Karnataka
+25,Customer_25,38,Delhi
+26,Customer_26,50,Karnataka
+27,Customer_27,29,Karnataka
+28,Customer_28,39,Tamil Nadu
+29,Customer_29,61,Karnataka
+30,Customer_30,42,Kerala
+31,Customer_31,66,Karnataka
+32,Customer_32,44,Tamil Nadu
+33,Customer_33,59,Kerala
+34,Customer_34,45,Maharashtra
+35,Customer_35,33,Karnataka
+36,Customer_36,32,Tamil Nadu
+37,Customer_37,64,Maharashtra
+38,Customer_38,68,Maharashtra
+39,Customer_39,61,Delhi
+40,Customer_40,69,Kerala
+41,Customer_41,20,Karnataka
+42,Customer_42,54,Tamil Nadu
+43,Customer_43,68,Delhi
+44,Customer_44,24,Kerala
+45,Customer_45,38,Delhi
+46,Customer_46,26,Kerala
+47,Customer_47,56,Kerala
+48,Customer_48,35,Karnataka
+49,Customer_49,21,Kerala
+50,Customer_50,42,Delhi
+51,Customer_51,31,Kerala
+52,Customer_52,67,Karnataka
+53,Customer_53,26,Karnataka
+54,Customer_54,43,Delhi
+55,Customer_55,19,Maharashtra
+56,Customer_56,37,Maharashtra
+57,Customer_57,45,Kerala
+58,Customer_58,64,Tamil Nadu
+59,Customer_59,24,Kerala
+60,Customer_60,61,Delhi
+61,Customer_61,25,Delhi
+62,Customer_62,64,Delhi
+63,Customer_63,52,Delhi
+64,Customer_64,31,Delhi
+65,Customer_65,34,Karnataka
+66,Customer_66,53,Maharashtra
+67,Customer_67,67,Delhi
+68,Customer_68,57,Tamil Nadu
+69,Customer_69,21,Tamil Nadu
+70,Customer_70,19,Tamil Nadu
+71,Customer_71,23,Tamil Nadu
+72,Customer_72,59,Karnataka
+73,Customer_73,21,Tamil Nadu
+74,Customer_74,46,Delhi
+75,Customer_75,35,Kerala
+76,Customer_76,43,Tamil Nadu
+77,Customer_77,61,Karnataka
+78,Customer_78,51,Karnataka
+79,Customer_79,27,Tamil Nadu
+80,Customer_80,53,Kerala
+81,Customer_81,31,Tamil Nadu
+82,Customer_82,48,Karnataka
+83,Customer_83,65,Maharashtra
+84,Customer_84,32,Delhi
+85,Customer_85,25,Karnataka
+86,Customer_86,31,Tamil Nadu
+87,Customer_87,40,Delhi
+88,Customer_88,57,Tamil Nadu
+89,Customer_89,38,Tamil Nadu
+90,Customer_90,33,Maharashtra
+91,Customer_91,62,Delhi
+92,Customer_92,35,Delhi
+93,Customer_93,64,Maharashtra
+94,Customer_94,41,Karnataka
+95,Customer_95,43,Tamil Nadu
+96,Customer_96,42,Kerala
+97,Customer_97,62,Tamil Nadu
+98,Customer_98,58,Tamil Nadu
+99,Customer_99,46,Karnataka
+100,Customer_100,32,Tamil Nadu
+100,Customer_100,32,Tamil Nadu
